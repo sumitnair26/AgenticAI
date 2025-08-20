@@ -42,3 +42,12 @@ This is a straightforward demonstration of building your first **Agentic AI** in
 
 ## Example Output
 
+[TaskBot] Observed: Fix login bug
+[TaskBot] Working on: "Fix login bug"
+[TaskBot] Observed: Update server configs urgently
+[TaskBot] Marking task as top priority: "Update server configs urgently"
+[TaskBot] Observed: Is database backup required?
+[TaskBot] Asking for clarification about: "Is database backup required?"
+[TaskBot] Observed: Work on this urgently
+[TaskBot] Marking task as top priority: "Work on this urgently"
+
